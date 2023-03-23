@@ -21,7 +21,7 @@ Shadows are compressed to have more good performance.
 
 Controls of the port:
 
-All: Touch Screen
+To play, use the screen, like the original game.
 
 If you like PSVita and you know how to do ports, you can help me whit the code talking whit me in discord: Alfredo2000#6380
 
