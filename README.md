@@ -23,7 +23,7 @@ Controls of the port:
 
 To play, use the screen, like the original game.
 
-If you like PSVita and you know how to do ports, you can help me whit the code talking whit me in discord: Alfredo2000#6380
+If you like Unity and you know how to do decomps/ports, you can help me whit the code talking whit me in discord: SpanishFreddy#6380
 
 Original README: Our group uses the game engine Unity3D to implement Slither.io, the programming language is C#.
 There is an andriod apk in the zip.The game could be played after installed the apk in andriod devices.
